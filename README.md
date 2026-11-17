@@ -14,7 +14,7 @@
 
 ## Die Spiele
 
-Die vollständigen Regeln stehen in [SPIELE.md](SPIELE.md) und natürlich in der App selbst.
+Die vollständigen Regeln stehen in der App selbst.
 
 **Teamspiele (ohne Namensliste):** Log In (Team), Tannenbaum
 
