@@ -1,4 +1,5 @@
 # 🎳 KegelBuddy
+Aufrufen: https://derrolo.github.io/Kegelbuddy/
 
 **Der Werkzeugkasten für den Kegelabend.** Spielregeln nachschlagen, ein Spiel auslosen, Zahlen würfeln und mit einem Soundboard für die richtige Stimmung sorgen. Alles läuft im Browser, ohne Konto und ohne Server. Als App auf dem Handy installierbar, auch offline.
 
